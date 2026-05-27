@@ -25,12 +25,14 @@ Domain Name: corp.local
 Server Role: Domain Controller
 
 ### Active Directory Structure
-CORP.local
-└── Company
-    ├── Users
-    ├── Groups
-    ├── Computers
-    └── Admins
+Domain: CORP.local
+
+OU Structure:
+Company
+├── Users        (User accounts)
+├── Groups       (Security groups / RBAC)
+├── Computers    (Workstations / devices)
+└── Admins       (Privileged accounts)
     
 ### aSecurity Groups Created
 GG_HR_Users
