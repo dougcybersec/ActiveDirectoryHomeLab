@@ -35,7 +35,7 @@ Company
 ├── Computers    (Workstations / devices)
 └── Admins       (Privileged accounts)
    ``` 
-### aSecurity Groups Created
+### Security Groups Created
 GG_HR_Users
 GG_IT_Users
 GG_HelpDesk
