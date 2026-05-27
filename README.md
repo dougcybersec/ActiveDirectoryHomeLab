@@ -29,10 +29,14 @@ Domain: CORP.local
 
 OU Structure:
 Company
-├── Users        (User accounts)
-├── Groups       (Security groups / RBAC)
-├── Computers    (Workstations / devices)
-└── Admins       (Privileged accounts)
+├── 
+Users        (User accounts)
+├──
+Groups       (Security groups / RBAC)
+├── 
+Computers    (Workstations / devices)
+└── 
+Admins       (Privileged accounts)
     
 ### aSecurity Groups Created
 GG_HR_Users
